@@ -1,0 +1,81 @@
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):link {
+  color: #800000;
+  text-decoration: underline;
+}
+
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):visited {
+  color: #800000;
+  text-decoration: underline;
+}
+
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):hover {
+  color: #26190D;
+  text-decoration: none;
+}
+
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):active {
+  color: #26190D;
+  text-decoration: none;
+}
+
+.btn-primary:link, .btn-primary:visited {
+  background-color: #800000;
+  border-color: #800000;
+}
+
+.btn-primary:hover, .btn-primary:active {
+  background-color: #26190D;
+  border-color: #26190D;
+}
+
+/*
+.nav-link a:link, .nav-link a:visited {
+  text-decoration: none;
+} */
+
+img {
+  max-width: 100%;
+}
+
+img.float-start {
+  margin: 1rem 1rem 1rem 0;
+}
+
+img.float-end {
+  margin: 1rem 0 1rem 1rem;
+}
+
+/* Side notes for calling out things
+https://gist.github.com/matthiasg/6153853
+-------------------------------------------------- */
+
+/* Base styles (regardless of theme) */
+.bs-callout {
+  margin: 20px 0;
+  padding: 15px 30px 15px 15px;
+  border-left: 5px solid #eee;
+}
+.bs-callout h4 {
+  margin-top: 0;
+}
+.bs-callout p:last-child {
+  margin-bottom: 0;
+}
+.bs-callout code,
+.bs-callout .highlight {
+  background-color: #fff;
+}
+
+/* Themes for different contexts */
+.bs-callout-danger {
+  background-color: #fcf2f2;
+  border-color: #dFb5b4;
+}
+.bs-callout-warning {
+  background-color: #fefbed;
+  border-color: #f1e7bc;
+}
+.bs-callout-info {
+  background-color: #f0f7fd;
+  border-color: #d0e3f0;
+}
