@@ -2,4 +2,4 @@
 layout: home
 title: Ekipa Fanihy
 ---
-the quick brown fox jumped over the lazy dog.
+the quick brown fox jumped over the lazy dog. this is how you edit the website.
