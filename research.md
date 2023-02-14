@@ -5,4 +5,3 @@ permalink: /research
 ---
 Some words here about research...
 
-new sentence here
