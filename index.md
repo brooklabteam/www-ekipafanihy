@@ -7,4 +7,4 @@ the quick brown fox jumped over the lazy dog. this is how you edit the website.
 
 <img src="/assets/team/EkipaFanihyLogoWhite.png" alt="bat" class="img-thumbnail float-start col-md-3" />
 
-The **Brook Lab** includes students and postdocs based in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the [University of Chicago](https://uchicago.edu), in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo. Collectively, we are *Ekipa Fanihy*, Malagasy for 'Team Fruit Bat.'
+The **Ekipa Fanihy Association** was created in 2010 (?) and became an independent association in 2023. Ekipa Fanihy (Malagasy for 'Team Fruit Bat') is an extension of the [Brook Lab]( https://brooklab.org/) of [University of Chicago](https://uchicago.edu) and was established to provide opportunities for Malagasy researchers to biologists. Through Ekipa, Malagasy researchers have the opportunity to collect data in the field and analyze those data for their higher education degrees and in order to become leaders in the field of bat ecology and in research areas beyond.
