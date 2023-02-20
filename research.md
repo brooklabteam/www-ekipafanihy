@@ -4,12 +4,20 @@ title: Research / Projects
 permalink: /research
 ---
 
-We use tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Much of our work is focused on zoonotic infections derived from bat reservoirs, and we conduct the majority of our field studies in Madagascar. Major areas of research in the lab are summarized below.
+</h2>Research</h2>
+Our research team uses tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Much of our work is focused on zoonotic infections derived from bat reservoirs, and we conduct the majority of our field studies in Madagascar. Major areas of research include investigating bats as reservoirs for emerging viral zoonoses, the coevolution of bats and viruses, and bat conservation and population modeling. 
 
-</h2>Bats as reservoirs for emerging viral zoonoses</h2>
+<div style="clear:both;">&nbsp;</div>
 
-Bats are reservoir hosts for the world’s most virulent emerging viral zoonoses, including Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. The Brook Lab investigates how these pathogens which manifest as highly virulent in humans are maintained at the **population-level** in wild bat reservoir hosts. Classic epidemiological modeling explores the dynamics of perfectly immunizing childhood infections, under which hosts are born susceptible (S), become infectious (I), and recover (R) via immune responses retained for life. In the simplest example, infections persist maintained in a population by constant re-supply of susceptible births. Many bat species reproduce in annual or biannual birth pulses, meaning that susceptible re-supply is restricted within a year. Such a system suggests that bat viruses may be governed by more nuanced dynamics than standard SIR–be they longer infectious periods, latent periods for persistent infections, or periodic waning immunity. To elucidate these dynamics, we fit candidate mechanistic models to age-structured prevalence and seroprevalence data, which we collect ourselves through the field studies of the inimitable [Ekipa Fanihy team](www.ekipafanihy.org/team).
+</h2>Habitat Protection</h2>
+One of Ekipa Fanihy’s goals is to protect the forest in Analambotaka where a large colony of Pteropus rufus roost. This forest and much of the surrounding forest are cut and burned each year for cattle grazing, as is commonly practiced in this area of Madagascar. Ekipa is currently working with the local fokontany and commune to create a VEOY/VOI protected area. We also plan to work with the community to build and improve the bridges and roads leading to and from the Analambotaka area. 
 
-</h2>The coevolution of bats and viruses</h2>
+<div style="clear:both;">&nbsp;</div>
 
-Bats appear to host otherwise virulent viral infections without themselves experiencing substantial pathology. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat immune systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections. Bats’ abilities to host viruses without disease may provide selective pressure for the evolution of pathogens which are not virulent to their bat hosts but cause extreme disease uponn spillover to non-bat (i.e. human) hosts. We use a combination of experiments carried out in bat cell tissue culture and theoretical models to investigate the co-evolution of bat immune systems and their pathogens. On average, we have shown that bat-borne zoonoses cause higher human case fatality rates than do viruses derived from any other mammalian group.
+</h2>Collaborative Partners in Conservation</h2>
+
+[**Madigasikara Voakajy**](https://www.madagasikara-voakajy.org/): Using age data derived from fruit bat dentition, we have undertaken population modeling studies for wild, Madagascar fruit bats. These studies suggest that the Madagascar Flying Fox, Pteropus rufus, is particularly threatened by habitat destruction and human hunting for food consumption in Madagascar. We are currently working with a local conservation NGO, Madigasikara Voakajy, to develop conservation-oriented intervention plans for this species and undertake new studies aimed at quantifying the positive benefits that this bat offers to healthy ecosystems, including pollination of several endangered Malagasy baobab species. We are also involved in several other conservation collaborations, through which we have undertaken population modeling for several non-Chiropteran threatened taxa, including endemic Malagasy lemurs and tenrecs.
+
+<div style="clear:both;">&nbsp;</div>
+
+**Collaboration with MBC**:
