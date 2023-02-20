@@ -3,6 +3,9 @@ layout: page
 title: Programs
 permalink: /programs
 ---
+
+Together with the Brook Lab and many collaborators, we host 2 courses per year.
+
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
