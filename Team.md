@@ -21,6 +21,8 @@ permalink: /team
 
 **Angelo Andrianiaina** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where he studies seasonal variation in ectoparasite infestation of two Malagasy fruit bats (*Eidolon dupreanum* and *Rousettus madagascariensis*) and the impacts of this variation on the dynamics of infection for vector-borne pathogens, such as *Bartonella* spp. Angelo holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously worked on projects promoting lemur conservation in vanilla plantations in northern Madagascar, as well as projects documenting small mammal and herpetological biodiversity in the Moramanga District of east-central Madagascar.
 
+<div style="clear:both;">&nbsp;</div>
+
 <div class="profile-card">
 
 <img src="/assets/team/santino_andry.jpg" alt="santino" class="img-thumbnail float-start col-md-3" />
