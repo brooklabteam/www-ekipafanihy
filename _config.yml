@@ -4,25 +4,25 @@ url: "https://ekipafanihy.org/"
 # permalink: ':pagetitle/'
 # timezone: America/Chicago
 
-# navbar:
-#   title: ""
-#   left:
-# 	- text: "Home"
-# 	  href: /
-# 	- text: "About"
-# 	  href: /about
-# 	- text: "Research"
-# 	  href: /research
-# 	- text: "Programs" 
-# 	  href: /programs
-# 	- text: "Team"
-# 	  href: /team
+navbar:
+   title: ""
+   left:
+ 	- text: "Home"
+ 	  href: /
+ 	- text: "About"
+ 	  href: /about
+ 	- text: "Research"
+ 	  href: /research
+ 	- text: "Programs" 
+ 	  href: /programs
+ 	- text: "Team"
+ 	  href: /team
 # 	- text: "Careers / Join"
 # 	  href: /careers_join
 # 	- text: "News & Media"
 # 	  href: https://carabrook.github.io/blog
-# 	- text: "Contact / Volunteer" 
-# 	  href: /contact_volunteer
+# 	- text: "Contact" 
+# 	  href: /contact
 # 	- text: "Support Us" 
 # 	  href: /support_us
 
