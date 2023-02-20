@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join our Group
+title: Join
 permalink: /join
 ---
 
