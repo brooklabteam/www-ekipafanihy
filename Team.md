@@ -55,7 +55,7 @@ Add Rova's bio and photo here
 
 <img src="/assets/team/nuzha_baksh.jpg" alt="nuzha" class="img-thumbnail float-start col-md-3" />
 
-**Nuzha Baksh** is a **Field Project Manager** with Ekipa Fanihy. She co-leads monthly field expeditions to capture and sample fruit bats endemic to Madagascar (<i>Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis</i>). She has also previously conducted fieldwork sampling endangered mountain yellow-legged frogs in the Sierra Nevadas and various frog species in East Bay California. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
+**Nuzha Baksh** is a **Field Project Manager** with Ekipa Fanihy. She co-leads monthly field expeditions to capture and sample fruit bats endemic to Madagascar (<i>Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis</i>). She has also previously conducted fieldwork sampling endangered mountain yellow-legged frogs in the Sierra Nevadas and various frog species in East Bay California. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (*Batrachochytrium dendrobatidis*) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
 
 <div style="clear:both;">&nbsp;</div>
 
