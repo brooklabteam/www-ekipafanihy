@@ -6,7 +6,7 @@ permalink: /research
 
 <h2>Research</h2>
 
-<img src="/assets/research/lab_tent.jpeg" alt="tent" class="img-thumbnail float-end col-md-5" />
+<img src="/assets/research/lab_tent.jpeg" alt="tent" class="float-end col-md-5" />
 
 Our research team uses tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Much of our work is focused on zoonotic infections derived from bat reservoirs, and we conduct the majority of our field studies in Madagascar. Major areas of research include investigating bats as reservoirs for emerging viral zoonoses, the coevolution of bats and viruses, and bat conservation and population modeling. 
 
