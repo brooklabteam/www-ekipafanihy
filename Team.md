@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team
 ---
-<img src="/assets/team/Hands together.JPG" alt="hands" class="float-end col-md-3" />
+<img src="/assets/team/Hands together.JPG" alt="hands" class="float-end col-sm-3" />
 
 **The Ekipa Fanihy Association** is the independent organization supporting the field biology team of the Brook Lab of UChicago. The Brook Lab includes students and postdocs based in the Department of Ecology and Evolution at the University of Chicago, in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo. Collectively with our wonderful in-country administration, we are Ekipa Fanihy, Malagasy for ‘Team Fruit Bat.’
 
@@ -30,7 +30,7 @@ permalink: /team
 <div class="profile-card">
 
 <img src="/assets/team/santino_andry.jpg" alt="santino" class="img-thumbnail float-start col-md-3" />
-**ANDRY Santino** recently finished his Master's degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2021.
+**ANDRY Santino** recently finished his Master's degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2023.
 
 <div style="clear:both;">&nbsp;</div>
 
