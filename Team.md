@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team
 ---
-<img src="/assets/team/Hands together.JPG" alt="hands" class="float-end col-sm-3" />
+<img src="/assets/team/Hands together.JPG" alt="hands" class="img-thumbnail float-end col-sm-3" />
 
 **The Ekipa Fanihy Association** is the independent organization supporting the field biology team of the Brook Lab of UChicago. The Brook Lab includes students and postdocs based in the Department of Ecology and Evolution at the University of Chicago, in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo. Collectively with our wonderful in-country administration, we are Ekipa Fanihy, Malagasy for ‘Team Fruit Bat.’
 
@@ -13,7 +13,7 @@ permalink: /team
 
 <h2>Director</h2>
 <img src="/assets/team/christian_ranaivoson.jpg" alt="christian" class="img-thumbnail float-start col-md-3" />
-  Dr. **RANAIVOSON Christian Hafaliana** is the **Director** of Ekipa Fainhy. He is a Postdoctoral Scholar in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar. Christian’s PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically Babesia spp. infections of the Madagascar flying fox, Pteropus rufus. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on SARS-CoV-2 genomic surveillance in Madagascar. Christian holds a Master’s degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles. He co-founded Ekipa Fainhy with Dr. Cara Brook when they started conducting field work together in 2010. (Fact check!)
+  Dr. *RANAIVOSON Christian Hafaliana* is the **Director** of Ekipa Fainhy. He is a Postdoctoral Scholar in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar. Christian’s PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically Babesia spp. infections of the Madagascar flying fox, Pteropus rufus. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on SARS-CoV-2 genomic surveillance in Madagascar. Christian holds a Master’s degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles. He co-founded Ekipa Fainhy with Dr. Cara Brook when they started conducting field work together in 2010. *(Fact check!)*
   
 <div style="clear:both;">&nbsp;</div>
 	
