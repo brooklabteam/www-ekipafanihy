@@ -1,6 +1,50 @@
 title: Ekpia Fanihy
 description: Ekpia Fanihy
-url: "https://brooklab.org"
+url: "https://ekipafanihy.org/"
+# permalink: ':pagetitle/'
+# timezone: America/Chicago
+
+# navbar:
+#   title: ""
+#   left:
+# 	- text: "Home"
+# 	  href: /
+# 	- text: "Research"
+# 	  href: /research_interests
+# 	- text: "Publications"
+# 	  href: /publications
+# 	- text: "Cara Brook"
+# 	  href: /carabrook
+# 	- text: "Team"
+# 	  href: /team
+# 	- text: "Lab Values and Expectations"
+# 	  href: /labvalues
+# 	- text: "Join the Lab!"
+# 	  href: /jointhelab
+# 	- text: "News"
+# 	  href: https://carabrook.github.io/blog
+# 	- text: "E2M2" 
+# 	  href: https://carabrook.github.io/E2M2
+
+# google_analytics:
+
+# plugins: [jekyll-redirect-from]
+ 
+# assets:
+#   sources:
+# 	- _assets/css
+# 	- _assets/images
+# 	- _assets/team
+
+
+#paginate: 8
+#paginate_path: "/page/:num"
+
+# pagination:
+#  enabled: true
+#   per_page: 10
+#   sort_field: 'date'
+#   sort_reverse: true
 
 include:
   - _redirects
