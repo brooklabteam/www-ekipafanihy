@@ -1,6 +1,6 @@
 title: Ekpia Fanihy
 description: Ekpia Fanihy
-url: "https://ekipafanihy.org/"
+url: "https://ekipafanihy.org"
 
 plugins:
 - jekyll-sitemap
