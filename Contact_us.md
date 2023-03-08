@@ -16,7 +16,7 @@ permalink: /contact_us
     <div class="column">
       <form action="/action_page.php">
         <label for="fname">First Name</label>
-        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <input type="text" id="fname" name="firstname" placeholder="Your first name..">
         <label for="lname">Last Name</label>
         <input type="text" id="lname" name="lastname" placeholder="Your last name..">
         <label for="email">Email</label>
@@ -30,3 +30,10 @@ permalink: /contact_us
     </div>
   </div>
 </div>
+
+<?php
+if($_POST["Message"]) {
+mail("fitzk980@gmail.com", ""Subject or title of message here.."",
+$_POST["Write something.."]. "From: fitzk980@gmail.com");
+}
+?>
