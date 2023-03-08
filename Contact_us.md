@@ -31,6 +31,7 @@ permalink: /contact_us
   </div>
 </div>
 
+/*trying to get this form to send an email but so far unsuccessful*/
 <?php
 if($_POST["Message"]) {
 mail("fitzk980@gmail.com", ""Subject or title of message here.."",
