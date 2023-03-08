@@ -11,7 +11,7 @@ permalink: /contact_us
   </div>
   <div class="row">
     <div class="column">
-      <img src="/assets/Analambotaka_big_net.jpg" style="width:100%">
+      <img src="/assets/team/EkipaFanihyLogoWhite.png" style="width:100%">
     </div>
     <div class="column">
       <form action="/action_page.php">
