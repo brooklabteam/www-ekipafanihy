@@ -11,7 +11,7 @@ permalink: /contact_us
   </div>
   <div class="row">
     <div class="column">
-      <img src="Analambotaka big net.jpg" style="width:100%">
+      <img src="Analambotaka_big_net.jpg" style="width:100%">
     </div>
     <div class="column">
       <form action="/action_page.php">
@@ -23,6 +23,7 @@ permalink: /contact_us
         <select id="country" name="country">
           <option value="" selected="selected">Select Country</option> 
               <option value="Afghanistan">Afghanistan</option> 
+              <option value="Åland Islands">Åland Islands</option>
               <option value="Albania">Albania</option> 
               <option value="Algeria">Algeria</option> 
               <option value="American Samoa">American Samoa</option> 
@@ -74,7 +75,7 @@ permalink: /contact_us
               <option value="Congo, The Democratic Republic of The">Congo, The Democratic Republic of The</option> 
               <option value="Cook Islands">Cook Islands</option> 
               <option value="Costa Rica">Costa Rica</option> 
-              <option value="Cote D'ivoire">Cote D'ivoire</option> 
+              <option value="Cote d'Ivoire">Cote D'ivoire</option> 
               <option value="Croatia">Croatia</option> 
               <option value="Cuba">Cuba</option> 
               <option value="Cyprus">Cyprus</option> 
@@ -135,6 +136,7 @@ permalink: /contact_us
               <option value="Kiribati">Kiribati</option> 
               <option value="Korea, Democratic People's Republic of">Korea, Democratic People's Republic of</option> 
               <option value="Korea, Republic of">Korea, Republic of</option> 
+              <option value="Kosovo, Republic of">Kosovo, Republic of</option> 
               <option value="Kuwait">Kuwait</option> 
               <option value="Kyrgyzstan">Kyrgyzstan</option> 
               <option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option> 
@@ -142,7 +144,7 @@ permalink: /contact_us
               <option value="Lebanon">Lebanon</option> 
               <option value="Lesotho">Lesotho</option> 
               <option value="Liberia">Liberia</option> 
-              <option value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option> 
+              <option value="Libya">Libya</option> 
               <option value="Liechtenstein">Liechtenstein</option> 
               <option value="Lithuania">Lithuania</option> 
               <option value="Luxembourg">Luxembourg</option> 
@@ -163,7 +165,8 @@ permalink: /contact_us
               <option value="Micronesia, Federated States of">Micronesia, Federated States of</option> 
               <option value="Moldova, Republic of">Moldova, Republic of</option> 
               <option value="Monaco">Monaco</option> 
-              <option value="Mongolia">Mongolia</option> 
+              <option value="Mongolia">Mongolia</option>
+              <option value="Montenegro">Montenegro</option>
               <option value="Montserrat">Montserrat</option> 
               <option value="Morocco">Morocco</option> 
               <option value="Mozambique">Mozambique</option> 
@@ -210,7 +213,7 @@ permalink: /contact_us
               <option value="Sao Tome and Principe">Sao Tome and Principe</option> 
               <option value="Saudi Arabia">Saudi Arabia</option> 
               <option value="Senegal">Senegal</option> 
-              <option value="Serbia and Montenegro">Serbia and Montenegro</option> 
+              <option value="Serbia">Serbia</option> 
               <option value="Seychelles">Seychelles</option> 
               <option value="Sierra Leone">Sierra Leone</option> 
               <option value="Singapore">Singapore</option> 
@@ -228,12 +231,12 @@ permalink: /contact_us
               <option value="Swaziland">Swaziland</option> 
               <option value="Sweden">Sweden</option> 
               <option value="Switzerland">Switzerland</option> 
-              <option value="Syrian Arab Republic">Syrian Arab Republic</option> 
-              <option value="Taiwan, Province of China">Taiwan, Province of China</option> 
+              <option value="Syria">Syria</option> 
+              <option value="Taiwan, Republic of China">Taiwan, Republic of China</option> 
               <option value="Tajikistan">Tajikistan</option> 
               <option value="Tanzania, United Republic of">Tanzania, United Republic of</option> 
               <option value="Thailand">Thailand</option> 
-              <option value="Timor-leste">Timor-leste</option> 
+              <option value="Timor-Leste">Timor-Leste</option> 
               <option value="Togo">Togo</option> 
               <option value="Tokelau">Tokelau</option> 
               <option value="Tonga">Tonga</option> 
@@ -253,7 +256,7 @@ permalink: /contact_us
               <option value="Uzbekistan">Uzbekistan</option> 
               <option value="Vanuatu">Vanuatu</option> 
               <option value="Venezuela">Venezuela</option> 
-              <option value="Viet Nam">Viet Nam</option> 
+              <option value="Vietnam">Vietnam</option> 
               <option value="Virgin Islands, British">Virgin Islands, British</option> 
               <option value="Virgin Islands, U.S.">Virgin Islands, U.S.</option> 
               <option value="Wallis and Futuna">Wallis and Futuna</option> 
