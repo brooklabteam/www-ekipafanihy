@@ -33,7 +33,7 @@ Dr. **RANAIVOSON Christian Hafaliana** is the **Director** of Ekipa Fainhy. He i
 
 <h2>Masters Students</h2>
 
-**RATSIMAMANGA Rova Indrianala** Rova is a Masters student in the Department of Zoology and Animal Biology at the University of Antananarivo, Madagascar. He is studying *Bartonella* spp. prevalence on Madagascar's fruit bats. He has previously worked on . . . Rova joined the team in 2023.  
+**RATSIMAMANGA Rova Indrianala** Rova is a Masters student in the Department of Zoology and Animal Biology at the University of Antananarivo, Madagascar. He is studying *Bartonella* spp. prevalence on Madagascar's fruit bats. Rova joined the team in 2023 and is now conducting his first season of field work with Ekipa!  
 
 <div style="clear:both;">&nbsp;</div>
 
