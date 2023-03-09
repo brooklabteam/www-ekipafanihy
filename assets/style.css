@@ -1,147 +1,81 @@
 a:not(.nav-link):not(.navbar-brand):not(.btn-primary):link {
-  color: #800000;
-  text-decoration: underline;
-}
+   color: #800000;
+   text-decoration: underline;
+ }
 
-a:not(.nav-link):not(.navbar-brand):not(.btn-primary):visited {
-  color: #800000;
-  text-decoration: underline;
-}
+ a:not(.nav-link):not(.navbar-brand):not(.btn-primary):visited {
+   color: #800000;
+   text-decoration: underline;
+ }
 
-a:not(.nav-link):not(.navbar-brand):not(.btn-primary):hover {
-  color: #26190D;
-  text-decoration: none;
-}
+ a:not(.nav-link):not(.navbar-brand):not(.btn-primary):hover {
+   color: #26190D;
+   text-decoration: none;
+ }
 
-a:not(.nav-link):not(.navbar-brand):not(.btn-primary):active {
-  color: #26190D;
-  text-decoration: none;
-}
+ a:not(.nav-link):not(.navbar-brand):not(.btn-primary):active {
+   color: #26190D;
+   text-decoration: none;
+ }
 
-.btn-primary:link, .btn-primary:visited {
-  background-color: #800000;
-  border-color: #800000;
-}
+ .btn-primary:link, .btn-primary:visited {
+   background-color: #800000;
+   border-color: #800000;
+ }
 
-.btn-primary:hover, .btn-primary:active {
-  background-color: #26190D;
-  border-color: #26190D;
-}
+ .btn-primary:hover, .btn-primary:active {
+   background-color: #26190D;
+   border-color: #26190D;
+ }
 
-/*
-.nav-link a:link, .nav-link a:visited {
-  text-decoration: none;
-} */
+ /*
+ .nav-link a:link, .nav-link a:visited {
+   text-decoration: none;
+ } */
 
-img {
-  max-width: 100%;
-}
+ img {
+   max-width: 100%;
+ }
 
-img.float-start {
-  margin: 1rem 1rem 1rem 0;
-}
+ img.float-start {
+   margin: 1rem 1rem 1rem 0;
+ }
 
-img.float-end {
-  margin: 1rem 0 1rem 1rem;
-}
+ img.float-end {
+   margin: 1rem 0 1rem 1rem;
+ }
 
-p.caption {
-    text-align: center;
-    margin-top: -0.5rem;
-    margin-bottom: 0.5rem;
-    font-size: smaller;
-    color: #800000;
-    text-decoration: underline;
-}
+ /* Side notes for calling out things
+ https://gist.github.com/matthiasg/6153853
+ -------------------------------------------------- */
 
-/* Side notes for calling out things
-https://gist.github.com/matthiasg/6153853
--------------------------------------------------- */
+ /* Base styles (regardless of theme) */
+ .bs-callout {
+   margin: 20px 0;
+   padding: 15px 30px 15px 15px;
+   border-left: 5px solid #eee;
+ }
+ .bs-callout h4 {
+   margin-top: 0;
+ }
+ .bs-callout p:last-child {
+   margin-bottom: 0;
+ }
+ .bs-callout code,
+ .bs-callout .highlight {
+   background-color: #fff;
+ }
 
-/* Base styles (regardless of theme) */
-.bs-callout {
-  margin: 20px 0;
-  padding: 15px 30px 15px 15px;
-  border-left: 5px solid #eee;
-}
-.bs-callout h4 {
-  margin-top: 0;
-}
-.bs-callout p:last-child {
-  margin-bottom: 0;
-}
-.bs-callout code,
-.bs-callout .highlight {
-  background-color: #fff;
-}
-
-/* Themes for different contexts */
-.bs-callout-danger {
-  background-color: #fcf2f2;
-  border-color: #dFb5b4;
-}
-.bs-callout-warning {
-  background-color: #fefbed;
-  border-color: #f1e7bc;
-}
-.bs-callout-info {
-  background-color: #f0f7fd;
-  border-color: #d0e3f0;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-/* Style inputs */
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
-
-input[type=submit] {
-  background-color: #04AA6D;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-/* Contact form */
-/* Style the container/contact section */
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 10px;
-}
-
-/* Create two columns that float next to eachother */
-.column {
-  float: left;
-  width: 50%;
-  margin-top: 6px;
-  padding: 20px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column, input[type=submit] {
-    width: 100%;
-    margin-top: 0;
-  }
-}
+ /* Themes for different contexts */
+ .bs-callout-danger {
+   background-color: #fcf2f2;
+   border-color: #dFb5b4;
+ }
+ .bs-callout-warning {
+   background-color: #fefbed;
+   border-color: #f1e7bc;
+ }
+ .bs-callout-info {
+   background-color: #f0f7fd;
+   border-color: #d0e3f0;
+ }
