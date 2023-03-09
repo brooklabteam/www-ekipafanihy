@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team
 ---
-<img src="/assets/team/Hands together.JPG" alt="hands" class="img-thumbnail float-end col-sm-3" />
+<img src="/assets/team/Hands together.JPG" alt="hands" class="img float-end col-sm-3" />
 
 **The Ekipa Fanihy Association** is the independent organization supporting the field biology team of the Brook Lab of UChicago. The Brook Lab includes students and postdocs based in the Department of Ecology and Evolution at the University of Chicago, in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo. Collectively with our wonderful in-country administration, we are Ekipa Fanihy, Malagasy for ‘Team Fruit Bat.’
 
@@ -33,7 +33,7 @@ Dr. **RANAIVOSON Christian Hafaliana** is the **Director** of Ekipa Fainhy. He i
 
 <h2>Masters Students</h2>
 
-**RATSIMAMANGA Rova Indrianala** Rova is a Masters student in the Department of Zoology and Animal Biology at the University of Antananarivo, Madagascar. He is studying *Bartonella* spp. prevalence on Madagascar's fruit bats. He has previously worked on . . . Rova joined the team in 2023.  
+**RATSIMAMANGA Rova Indrianala** Rova is a Masters student in the Department of Zoology and Animal Biology at the University of Antananarivo, Madagascar. He is studying *Bartonella* spp. prevalence on Madagascar's fruit bats. Rova joined the team in 2023 and is now conducting his first season of field work with Ekipa!  
 
 <div style="clear:both;">&nbsp;</div>
 
