@@ -7,5 +7,5 @@ permalink: /news_media
 Please see our blog on the [Brook Lab website](http://brooklab.org/news)!
 
 <img src="/assets/ekipa presentation.jpeg" class="presentation" />
-<p class="caption">
+  <p class="caption">
         Santino Andry gives a presentation at the Forest Station in Angavokely
