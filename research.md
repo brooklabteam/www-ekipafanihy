@@ -8,7 +8,7 @@ permalink: /research
 
 <img src="/assets/research/lab_tent.jpeg" alt="tent" class="float-end col-md-5" />
 
-Our research team uses tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Much of our work is focused on zoonotic infections derived from bat reservoirs, and we conduct the majority of our field studies in Madagascar. Major areas of research include investigating bats as reservoirs for emerging viral zoonoses, the coevolution of bats and viruses, and bat conservation and population modeling. 
+Our research team uses tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Much of our work is focused on zoonotic infections derived from bat reservoirs, and we conduct the majority of our field studies in Madagascar. Major areas of research include investigating bats as reservoirs for emerging viral zoonoses, the coevolution of bats and viruses, and bat conservation and population modeling. Our team maintains longterm field sites to study these dynamics in central-eastern Madagascar, where we work closely with students from the University of Antananarivo.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -16,7 +16,7 @@ Our research team uses tools derived from field biology, molecular immunology, a
 
 <img src="/assets/research/Analambotaka roost.jpeg" alt="bat" class="float-start col-md-5" />
 
-One of Ekipa Fanihy’s goals is to protect the forest in Analambotaka where a large colony of *Pteropus rufus* roost. This area and much of the surrounding forest are cut and burned each year for cattle grazing, as is commonly practiced in Madagascar. Ekipa is currently working with the local fokontany and commune to create a VEOY/VOI protected area. We also plan to work with the community to build and improve the bridges and roads leading to and from the Analambotaka area. 
+One of Ekipa Fanihy’s goals is to protect the forest in Analambotaka, one of our field sites, where a large colony of *Pteropus rufus* roost. This area and much of the surrounding forest are cut and burned each year for cattle grazing, as is commonly practiced in Madagascar. Ekipa is currently working with the local fokontany and commune to create a VEOY/VOI protected area. We also plan to work with the community to build and improve the bridges and roads leading to and from the Analambotaka area. 
 
 <div style="clear:both;">&nbsp;</div>
 
