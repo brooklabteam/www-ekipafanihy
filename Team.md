@@ -13,7 +13,7 @@ permalink: /team
 	
 <img src="/assets/team/christian_ranaivoson.jpg" alt="christian" class="img-thumbnail float-start col-md-3" />
 
-Dr. **RANAIVOSON Christian Hafaliana** is the **Director** of Ekipa Fainhy. He is a Postdoctoral Scholar in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar. Christian’s PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, Pteropus rufus. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on SARS-CoV-2 genomic surveillance in Madagascar. Christian holds a Master’s degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles. He co-founded Ekipa Fainhy with Dr. Cara Brook when they started conducting field work together in 2013. *(Fact check!)*
+Dr. **RANAIVOSON Christian Hafaliana** is the **Director** of Ekipa Fainhy. He is a Postdoctoral Scholar in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar. Christian’s PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, Pteropus rufus. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on SARS-CoV-2 genomic surveillance in Madagascar. Christian holds a Master’s degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles. He co-founded Ekipa Fainhy with Dr. Cara Brook when they started conducting field work together in 2013.
   
 <div style="clear:both;">&nbsp;</div>
 
@@ -21,7 +21,7 @@ Dr. **RANAIVOSON Christian Hafaliana** is the **Director** of Ekipa Fainhy. He i
 
 <img src="/assets/team/carabrook-headshot-2020.jpeg" alt="headshot" class="img-thumbnail float-start col-md-3" />
 
-Dr. **BROOK Cara** is an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago and the *Scientific Advisor* to Ekipa Fanihy. She investigates the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. She is committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar. Cara recieved her PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and her BS in Earth Systems from Stanford University in 2010. She co-founded Ekipa Fainhy with Dr. Christian Ranaivoson in 2013.
+Dr. **BROOK Cara** is an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago and the *Scientific Advisor* to Ekipa Fanihy. She investigates the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. She is committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar. Cara recieved her PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and her BS in Earth Systems from Stanford University in 2010. You can read more about Cara's work and her lab at UChicago at [her website] (www.brooklab.org) She co-founded Ekipa Fainhy with Dr. Christian Ranaivoson in 2013.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -43,7 +43,7 @@ Dr. **BROOK Cara** is an Assistant Professor in the [Department of Ecology and E
 
 <img src="/assets/team/rova_indrianala_ratsimamanga .jpg" alt="rova" class="img-thumbnail float-start col-md-3" />
 
-**RATSIMAMANGA Rova Indrianala** Rova is a Masters student in the Department of Zoology and Animal Biology at the University of Antananarivo, Madagascar. He is studying *Bartonella* spp. prevalence on Madagascar's fruit bats. Rova joined the team in 2023 and is now conducting his first season of field work with Ekipa!  
+**RATSIMAMANGA Rova Indrianala** is a Masters student in the Department of Zoology and Animal Biology at the University of Antananarivo, Madagascar. He is studying *Bartonella* spp. prevalence on Madagascar's fruit bats. Rova joined the team in 2023 and is now conducting his first season of field work with Ekipa!  
 
 <div style="clear:both;">&nbsp;</div>
 
