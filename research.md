@@ -28,4 +28,4 @@ One of Ekipa Fanihy’s goals is to protect the forest in Analambotaka, one of o
 
 <div style="clear:both;">&nbsp;</div>
 
-**Collaboration with MBC**:
+**Collaboration with MBC**: An exciting new collaboration coming soon . . . 
