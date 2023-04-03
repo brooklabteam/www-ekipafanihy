@@ -24,12 +24,13 @@ One of Ekipa Fanihy’s goals is to protect the forest in Analambotaka, one of o
 
 <h2>Collaborative Partners in Conservation</h2>
 
-<img src="/assets/ekipa_fanihy_happy.jpg" alt="ekipa_fanihy" class="img-thumbnail float-end col-md-5" />
+<img src="/assets/ekipa_fanihy_happy.jpg" alt="ekipa_fanihy" class="float-end col-md-5" />
 
 [**The Brook Lab**](https://brooklab.org/): The Brook Lab of the [University of Chicago](https://www.uchicago.edu/) works at the interface of disease ecology and conservation biology to study the dynamics of zoonotic infections–pathogens transmitted from wildlife to human hosts. They conduct the majority of field studies in Madagascar in collaboration with the Ekipa Fanihy Association.
 
+<div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/research/baby_bat.png" alt="baby_bat" class="img-thumbnail float-end col-md-5" />
+<img src="/assets/research/baby_bat.png" alt="baby_bat" class="float-end col-md-5" />
 
 [**Madigasikara Voakajy**](https://www.madagasikara-voakajy.org/): Using age data derived from fruit bat dentition, we have undertaken population modeling studies for wild, Madagascar fruit bats. These studies suggest that the Madagascar Flying Fox, *Pteropus rufus*, is particularly threatened by habitat destruction and human hunting for food consumption in Madagascar. We are currently working with a local conservation NGO, Madigasikara Voakajy, to develop conservation-oriented intervention plans for this species and undertake new studies aimed at quantifying the positive benefits that this bat offers to healthy ecosystems, including pollination of several endangered Malagasy baobab species. We are also involved in several other conservation collaborations, through which we have undertaken population modeling for several non-Chiropteran threatened taxa, including endemic Malagasy lemurs and tenrecs.
 
