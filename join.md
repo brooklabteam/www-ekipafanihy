@@ -14,13 +14,13 @@ Ekipa Fanihy welcomes 2 Masters Students per year from the University of Antanan
 
 
 <h2>Admin positions</h2>
-Ekipa Fanihy is currently not looking for new admin members.
+Ekipa Fanihy is not currently looking for new admin members.
 
 <div style="clear:both;">&nbsp;</div>
 
 <h2>Interantional Volunteers</h2>
 
-If you would like to volunteer with us in Madagascar, especially with our field team, please contact our Science Advisor Dr. Cara Brook at <cbrook@uchicago.edu>. 
+If you would like to volunteer with us in Madagascar, especially with our field team, please contact our Science Advisor, Dr. Cara Brook, at <cbrook@uchicago.edu>. 
 
 <div style="clear:both;">&nbsp;</div>
 

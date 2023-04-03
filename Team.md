@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team
 ---
-<img src="/assets/team/Hands together.JPG" alt="hands" class="img float-end col-sm-3" />
+<img src="/assets/team/Hands together.JPG" alt="hands" class="img float-end col-sm-3", image_scale(image_scale(img,"[50]"),"x[50]")>
 
 Our team is made up of Malagasy biologists including PhD students and Masters students from the University of Antananarivo. Collectively with our wonderful in-country administration and international volunteers we are **Ekipa Fanihy**, Malagasy for ‘Team Fruit Bat.’ 
 
@@ -21,7 +21,7 @@ Dr. **RANAIVOSON Christian Hafaliana** is the **Director** of Ekipa Fainhy. He i
 
 <img src="/assets/team/carabrook-headshot-2020.jpeg" alt="headshot" class="img-thumbnail float-start col-md-3" />
 
-Dr. **BROOK Cara** the **Scientific Advisor** to Ekipa Fanihy. Dr. Brook is an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago . She investigates the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. She is committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar. Dr. Brook recieved her PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and her BS in Earth Systems from Stanford University in 2010. You can read more about Dr. Brook's work and her lab at UChicago on the [Brook Lab website](https://www.brooklab.org). She co-founded Ekipa Fainhy with Dr. Christian Ranaivoson in 2013.
+Dr. **BROOK Cara** is the **Scientific Advisor** to Ekipa Fanihy. Dr. Brook is an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago . She investigates the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. She is committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar. Dr. Brook recieved her PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and her BS in Earth Systems from Stanford University in 2010. You can read more about Dr. Brook's work and her lab at UChicago on the [Brook Lab website](https://www.brooklab.org). She co-founded Ekipa Fainhy with Dr. Christian Ranaivoson in 2013.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -29,13 +29,13 @@ Dr. **BROOK Cara** the **Scientific Advisor** to Ekipa Fanihy. Dr. Brook is an A
 
 <img src="/assets/team/angelo_andrianiaina.jpg" alt="angelo" class="img-thumbnail float-start col-md-3" />
 
-**ANDRIANIAINA Angelo** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where he studies seasonal variation in ectoparasite infestation of two Malagasy fruit bats (*Eidolon dupreanum* and *Rousettus madagascariensis*) and the impacts of this variation on the dynamics of infection for vector-borne pathogens, such as *Bartonella* spp. Angelo holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously worked on projects promoting lemur conservation in vanilla plantations in northern Madagascar, as well as projects documenting small mammal and herpetological biodiversity in the Moramanga District of east-central Madagascar.
+**ANDRIANIAINA Angelo** is a **Research Technician** with Ekipa Fanihy and **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where he studies seasonal variation in ectoparasite infestation of two Malagasy fruit bats (*Eidolon dupreanum* and *Rousettus madagascariensis*) and the impacts of this variation on the dynamics of infection for vector-borne pathogens, such as *Bartonella* spp. Angelo holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously worked on projects promoting lemur conservation in vanilla plantations in northern Madagascar, as well as projects documenting small mammal and herpetological biodiversity in the Moramanga District of east-central Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/santino_andry.jpg" alt="santino" class="img-thumbnail float-start col-md-3" />
 
-**ANDRY Santino** recently finished his Master's degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2023.
+**ANDRY Santino** is a **Research Technician** with Ekipa Fanihy. Santino obtained his Master's degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2023.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -43,7 +43,7 @@ Dr. **BROOK Cara** the **Scientific Advisor** to Ekipa Fanihy. Dr. Brook is an A
 
 <img src="/assets/team/rova_indrianala_ratsimamanga .jpg" alt="rova" class="img-thumbnail float-start col-md-3" />
 
-**RATSIMAMANGA Rova Indrianala** is a Masters student in the Department of Zoology and Animal Biology at the University of Antananarivo, Madagascar. He is studying *Bartonella* spp. prevalence on Madagascar's fruit bats. Rova joined the team in 2023 and is now conducting his first season of field work with Ekipa!  
+**RATSIMAMANGA Rova Indrianala** is a **Masters student** in the Department of Zoology and Animal Biology at the University of Antananarivo, Madagascar. He is studying *Bartonella* spp. prevalence on Madagascar's fruit bats. Rova joined the team in 2023 and is now conducting his first season of field work with Ekipa!  
 
 <div style="clear:both;">&nbsp;</div>
 
