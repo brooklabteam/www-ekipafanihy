@@ -5,7 +5,7 @@ permalink: /team
 ---
 <img src="/assets/team/Hands together.JPG" alt="hands" class="img float-end col-sm-3" />
 
-**The Ekipa Fanihy Association** is the independent organization supporting the field biology team of the Brook Lab of UChicago. The Brook Lab includes students and postdocs based in the Department of Ecology and Evolution at the University of Chicago, in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo. Collectively with our wonderful in-country administration, we are Ekipa Fanihy, Malagasy for ‘Team Fruit Bat.’
+Our team is made up of Malagasy biologists including PhD students and Masters students from the University of Antananarivo. Collectively with our wonderful in-country administration and international volunteers we are **Ekipa Fanihy**, Malagasy for ‘Team Fruit Bat.’ 
 
 <div style="clear:both;">&nbsp;</div>
 
