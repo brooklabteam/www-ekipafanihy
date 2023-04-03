@@ -8,7 +8,7 @@ permalink: /research
 
 <img src="/assets/research/lab_tent.jpeg" alt="tent" class="float-end col-md-5" />
 
-Our research focuses on disease ecology and population dynamics. In most of our projects, we are involved at every stage from data collection in the field to data analyzation and publication. Our research team works closely with the Brook Lab to tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Major areas of research include investigating bats as reservoirs for emerging viral zoonoses, the coevolution of bats and viruses, and bat conservation and population modeling. Our team, including Masters and PhD students from the University of Antananarivo, maintains longterm field sites to study these dynamics in central-eastern Madagascar.
+Our research focuses on disease ecology and population dynamics. In most of our projects, we are involved at every stage from data collection in the field to data analyzation and publication. Our research team, in close collaboration with the Brook Lab, uses tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Major areas of research include investigating bats as reservoirs for emerging viral zoonoses, the coevolution of bats and viruses, and bat conservation and population modeling. Our team, including Masters and PhD students from the University of Antananarivo, maintains longterm field sites to study these dynamics in central-eastern Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -22,7 +22,7 @@ One of Ekipa Fanihy’s goals is to protect the forest in Analambotaka, one of o
 
 <h2>Collaborative Partners in Conservation</h2>
 
-<img src="/assets/research/ekipa_fanihy_happy.jpg" alt="baby_bat" class="img-thumbnail float-end col-md-5" />
+<img src="/assetsekipa_fanihy_happy.jpg" alt="ekipa_fanihy" class="img-thumbnail float-end col-md-5" />
 
 [**The Brook Lab**](https://brooklab.org/): The Brook Lab of the [University of Chicago](https://www.uchicago.edu/) works at the interface of disease ecology and conservation biology to study the dynamics of zoonotic infections–pathogens transmitted from wildlife to human hosts. They conduct the majority of field studies in Madagascar in collaboration with the Ekipa Fanihy Association.
 
