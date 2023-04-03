@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team
 ---
-<img src="/assets/team/Hands together.JPG" alt="hands" class="img float-end col-sm-3"">
+<img src="/assets/team/Hands together.JPG" alt="hands" class="img float-end col-sm-3">
 
 Our team is made up of Malagasy biologists including PhD students and Masters students from the University of Antananarivo. Collectively with our wonderful in-country administration and international volunteers we are **Ekipa Fanihy**, Malagasy for ‘Team Fruit Bat.’ 
 
