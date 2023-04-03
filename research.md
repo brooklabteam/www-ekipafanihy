@@ -24,7 +24,7 @@ One of Ekipa Fanihy’s goals is to protect the forest in Analambotaka, one of o
 
 <h2>Collaborative Partners in Conservation</h2>
 
-<img src="/assets/ekipa_fanihy_happy.jpg" alt="ekipa_fanihy" class="float-end col-md-5" />
+<img src="/assets/ekipa_fanihy_happy.jpg" alt="ekipa_fanihy" class="float-end col-sm-5"/>
 
 [**The Brook Lab**](https://brooklab.org/): The Brook Lab of the [University of Chicago](https://www.uchicago.edu/) works at the interface of disease ecology and conservation biology to study the dynamics of zoonotic infections–pathogens transmitted from wildlife to human hosts. They conduct the majority of field studies in Madagascar in collaboration with the Ekipa Fanihy Association.
 
