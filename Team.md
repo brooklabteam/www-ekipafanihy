@@ -49,7 +49,7 @@ Dr. **BROOK Cara** is an Assistant Professor in the [Department of Ecology and E
 
 <h2>Administration Team</h2>
 
-**Chief Administrator** Add Avotra's bio and photo here
+**Chief Administrator** RAKOTOARIJAONA Avotra (Add bio and photo here)
 
 <div style="clear:both;">&nbsp;</div>
 
