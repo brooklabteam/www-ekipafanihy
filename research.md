@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research / Projects
+title: Research, Collaborators & Programs
 permalink: /research
 ---
 
