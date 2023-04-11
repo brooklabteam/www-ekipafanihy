@@ -4,7 +4,7 @@ title: News and Media
 permalink: /news_media
 ---
 
-Please see our blog on the [Brook Lab website](http://brooklab.org/news)!
+Please see our blog on the [Brook Lab website](https://brooklab.org/news)!
 
 <img src="/assets/ekipa presentation.jpeg" class="presentation" />
   <p class="caption">
