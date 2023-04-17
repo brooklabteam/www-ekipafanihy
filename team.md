@@ -49,7 +49,7 @@ Dr. **BROOK Cara** is the **Scientific Advisor** to Ekipa Fanihy. Dr. Brook is a
 
 <h2>Administration Team</h2>
 
-**Chief Administrator** RAKOTOARIJAONA Avotra (Add bio and photo here)
+**Chief Administrator** RAKOTOARIJAONA Avotra is our new Cheif Administrator, her short biography is coming soon!
 
 <div style="clear:both;">&nbsp;</div>
 
