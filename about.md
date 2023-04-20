@@ -13,8 +13,6 @@ The story of the **Ekipa Fanihy** (Malagasy for "Team Fruit Bat") dates back  to
 
 Our mission is to further studies of disease ecology and conservation biology in Madagascar by Malagasy scientists. We run and provide a long-term, sustainable research project for Malagasy biologists to join to complete their degrees and begin long, successful careers in science and conservation. Our work also aims to bring new laboratory technologies to Madagascar to be used in wildlife research and eventually in public health. 
 
-<div style="clear:both;">&nbsp;</div>
-
 <h2>Contacts</h2>
 
 For general inquiries about the association please reach out to:
