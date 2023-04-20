@@ -45,8 +45,6 @@ Dr. **RANAIVOSON Christian Hafaliana** He is a Postdoctoral Scholar in the Depar
 
 Dr. **BROOK Cara** is a Scientific Advisor to Ekipa Fanihy. Dr. Brook is an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago . She investigates the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. She is committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar. Dr. Brook recieved her PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and her BS in Earth Systems from Stanford University in 2010. You can read more about Dr. Brook's work and her lab at UChicago on the [Brook Lab website](https://www.brooklab.org). She and Dr. Christian Ranaivoson started conducting field work together in 2013, which would eventually grow into the Ekipa Fanihy today. She is currently running her research in collaboration with the Ekipa Fanihy Association.
 
-<h2>Volunteers</h2>
-
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/nuzha_baksh.jpg" alt="nuzha" class="img-thumbnail float-start col-md-3" />
