@@ -16,8 +16,11 @@ Our mission is to further studies of disease ecology and conservation biology in
 <h2>Contacts</h2>
 
 For general inquiries about the association please reach out to:
+<div style="clear:both;">&nbsp;</div>
 General email: <team@ekipafanihy.org>
+<div style="clear:both;">&nbsp;</div>
 Director: Dr. Christian RANAIVOSON <christian.ranaivoson@ekipafanihy.org>
+<div style="clear:both;">&nbsp;</div>
 Chief Administrator: Avotra RAKOTOARIJAONA <avotra.rakotoarijaona@ekipafanihy.org>
 
 For more details please see the "Join" page.
