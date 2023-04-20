@@ -29,11 +29,7 @@ Dr. **RANAIVOSON Christian Hafaliana** He is a Postdoctoral Scholar in the Depar
 
 <div style="clear:both;">&nbsp;</div>
 
-<div style="clear:both;">&nbsp;</div>
-
-<h2>Administration Team</h2>
-
-**Chief Administrator** RAKOTOARIJAONA Avotra is our new Cheif Administrator, her short biography is coming soon!
+**RAKOTOARIJAONA Avotra** is our Cheif Administrator. Her short biography is coming soon!
 
 <div style="clear:both;">&nbsp;</div>
 
