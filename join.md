@@ -8,7 +8,7 @@ permalink: /join
 
 <h2>New Association Members</h2>
 
-If you are interested in joining the association please reach out to Dr. RANAIVOSON Christian or our team at <christian.ranaivoson@ekipafanihy.org> or <team@ekipafanihy.org>.
+If you are interested in joining the association please reach out to Dr. Ranaivoson or our team at <christian.ranaivoson@ekipafanihy.org> or <team@ekipafanihy.org>.
 
 <div style="clear:both;">&nbsp;</div>
 
