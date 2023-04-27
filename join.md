@@ -40,4 +40,17 @@ If you would like to volunteer with us in Madagascar, especially with our field 
 
 Get in touch with Ekipa Fanihy about Master's Student positions, volunteering, our research and conservation efforts and more! Send us an email at <team@ekipafanihy.org>.
 
+Our Contacts:
+
+Santino Andry, association member and research technician: <santino.andry@ekipafanihy.org>
+
+Angelo Andrianiaina, association member and research technician: <angelo.andrianiaina@ekipafanihy.org>
+
+Christian Ranaivoson, association member and director: <christian.ranaivoson@ekipafanihy.org>
+
+Avotra Rakotoarijaona, association member and chief administrator: <avotra.rakotoarijaona@ekipafanihy.org>
+
+Cara Brook, collaborator and scientific advisor: <cara.brook@ekipafanihy.org>
+
+
 <img src="/assets/Maromizaha camp.jpg" class="camp" />
