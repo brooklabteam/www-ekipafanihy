@@ -8,13 +8,13 @@ permalink: /join
 
 <h2>New Association Members</h2>
 
-If you are interested in joining the association please reach out to Dr. Ranaivoson or our team at <christian.ranaivoson@ekipafanihy.org> or <team@ekipafanihy.org>.
+If you are interested in joining the association please reach out to Dr. RANAIVOSON Christian or our team at <christian.ranaivoson@ekipafanihy.org> or <team@ekipafanihy.org>.
 
 <div style="clear:both;">&nbsp;</div>
 
 <h2>Looking to do reserach in Madagascar?</h2>
 
-If you are looking to collaobrate with the Ekipa Fanihy Association for your research in Madagascar, please reach out to Dr. Ranaivoson or our team at <christian.ranaivoson@ekipafanihy.org> or <team@ekipafanihy.org>.
+If you are looking to collaobrate with the Ekipa Fanihy Association for your research in Madagascar, or looking for training in field or lab techniques in Madagascar, please reach out to Dr. Ranaivoson and our team at <christian.ranaivoson@ekipafanihy.org> or <team@ekipafanihy.org>.
 
 
 <div style="clear:both;">&nbsp;</div>
@@ -32,7 +32,7 @@ Ekipa Fanihy is not currently looking for new admin members.
 
 <h2>International Volunteers</h2>
 
-If you would like to volunteer with us in Madagascar, especially with our field team please contact our Science Advisor, Dr. Cara Brook, at <cara.brook@ekipafanihy.org> and Dr. RANAIVOSON Christian at <christian.ranaivoson@ekipafanihy.org> and/or <team@ekipafanihy.org>.
+If you would like to volunteer with us in Madagascar, especially with our field team please contact Dr. RANAIVOSON Christian at <christian.ranaivoson@ekipafanihy.org> and/or <team@ekipafanihy.org>.
 
 <div style="clear:both;">&nbsp;</div>
 
