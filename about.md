@@ -15,12 +15,10 @@ The main objective of the association is to create and serve as a platform for d
 
 <h2>Contacts</h2>
 
-For general inquiries about the association please reach out to:
+For more details please see the "Join" page, but for general inquiries about the association please reach out to:
 
 Our general email: <team@ekipafanihy.org>
 
 Our director: Dr. Christian RANAIVOSON <christian.ranaivoson@ekipafanihy.org>
 
 Our chief administrator: Avotra RAKOTOARIJAONA <avotra.rakotoarijaona@ekipafanihy.org>
-
-For more details please see the "Join" page.
