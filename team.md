@@ -21,7 +21,8 @@ In particular, we regularly support the training of new members in the following
 
 With the exception of foreign volunteers, positions will be posted here as they become available. In the meantime, if you are interested in any of these roles, please reach out to our team's general contact at <team@ekipafanihy.org>. 
 
-<h3>Master's Program</h3>
+
+<h4><i>Master's Program</i></h4>
 
 Association Ekipa Fanihy recruits and trains one new Master's student per year from the Department of Zoology and Animal Biodiversity at the University of Antananarivo. These positions are full time jobs, negotiated for one year contracts. Master's students are expected to design a study, collect data with our field team, and analyze the resulting data for their theses. All Master's students will be responsible for identifying an academic adviser at the University of Antananarivo, officially enrolling in the Master's program at the University of Antananarivo, and fulfilling all requirements of the degree at the university level. Proficiency in English and/or French are desired from Master's students but are not required. Students recruited for these roles can expect to spend roughly 3-5 months in the field, 3-4 months in the lab, and 3-4 months writing their theses to meet the university regulations.
 
