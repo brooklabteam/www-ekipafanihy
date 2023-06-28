@@ -3,8 +3,7 @@ layout: page
 title: Our Work
 permalink: /work
 ---
-
-<h2>Research</h2>
+## Research
 
 <img src="/assets/research/lab_tent.jpeg" alt="tent" class="float-end col-md-5" />
 
@@ -14,7 +13,7 @@ Day-to-day, Association Ekipa Fanihy conducts field studies, molecular analysis 
 
 <div style="clear:both;">&nbsp;</div>
 
-<h2>Outreach and Teaching</h2>
+## Outreach and Teaching
 
 In collaboration with the [Brook lab at the University of Chicago](brooklab.org), we host one data analysis course and one on-on-one scientific mentoring program each year for Malagasy biology students at the graduate level.
 
@@ -42,9 +41,7 @@ In collaboration with the [Brook lab at the University of Chicago](brooklab.org)
   </div>
 </div>
 
-
-
-<h2>Applied Conservation</h2>
+## Applied Conservation
 
 <img src="/assets/research/Analambotaka roost.jpeg" alt="bat" class="float-start col-md-5" />
 

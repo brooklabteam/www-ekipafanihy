@@ -5,5 +5,9 @@
 /pio/api/event https://plausible.io/api/event 200
 
 # Redirects from what the browser requests to what we serve
-/feed              /feed.xml
+/feed				/feed.xml
 
+/about				/
+/news_media			/
+/join				/
+/support_us			/
