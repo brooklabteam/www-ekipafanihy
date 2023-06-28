@@ -15,7 +15,7 @@ Day-to-day, Association Ekipa Fanihy conducts field studies, molecular analysis 
 
 ## Outreach and Teaching
 
-In collaboration with the [Brook lab at the University of Chicago](brooklab.org), we host one data analysis course and one on-on-one scientific mentoring program each year for Malagasy biology students at the graduate level.
+In collaboration with the [Brook lab at the University of Chicago](brooklab.org), we host one data analysis course and one one-on-one scientific mentoring program each year for Malagasy biology students at the graduate level.
 
 
 <div class="row">
