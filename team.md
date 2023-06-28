@@ -5,7 +5,7 @@ permalink: /team
 ---
 ## New Members
 
-<img src="/assets/team/Hands together.JPG" alt="hands" class="img float-end col-sm-3">
+<img src="/assets/team/Hands together.JPG" alt="hands" class="img-thumbnail float-end col-sm-3">
 
 We are constantly on the lookout for new members to fill a variety of roles on our team. 
 
