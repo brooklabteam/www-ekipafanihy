@@ -7,7 +7,7 @@
   <div>
     <div class="bg-light p-5 rounded">
       <div class="col-lg-8 mx-auto">
-        {% include header.html %}
+        {% if page.url contains 'mg' include header-mg.html else include header.html %}
         
         {{ content }}
         
