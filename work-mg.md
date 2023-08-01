@@ -25,7 +25,7 @@ Izahay dia mikarakara atrikasa sy manome fiofanana ho an'ny mpikaroka Malagasy, 
       <div class="card-body">
        <h5 class="card-title">E<sup>2</sup>M<sup>2</sup></h5>
         <p class="card-text">Atrikasa fampahafantarana amin'ny ankapobeany ny lozisiela R izay fikirakirana tarehimarika na statistika entina anazavana ny ekolojia sy ny epidemiolojia.</p>
-        <a href="https://e2m2.org/" class="btn btn-primary">Learn more</a>
+        <a href="https://e2m2.org/" class="btn btn-primary">Fanampim-panazavana</a>
       </div>
     </div>
   </div>
@@ -34,7 +34,7 @@ Izahay dia mikarakara atrikasa sy manome fiofanana ho an'ny mpikaroka Malagasy, 
       <div class="card-body">
         <h5 class="card-title">Coding 4 Conservation</h5>
         <p class="card-text">Programa fanarahamaso sy fanoroana mpianatra Malagasy izay mamarana taompianarana na mpikaroka Malagasy izay manoratra lahatsoratra ho avoaka ofisialy.</p>
-        <a href="https://coding4conservation.org/" class="btn btn-primary">Learn more</a>
+        <a href="https://coding4conservation.org/" class="btn btn-primary">Fanampim-panazavana</a>
       </div>
     </div>
   </div>
