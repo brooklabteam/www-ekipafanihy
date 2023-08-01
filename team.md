@@ -68,7 +68,7 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 Dr. **BROOK Cara** is the Scientific Advisor to Ekipa Fanihy. Contact: [cara.brook@ekipafanihy.org](mailto:cara.brook@ekipafanihy.org).
 
-Cara is an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. The [Brook Lab](https://www.brooklab.org) investigates the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. Cara is committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar. She received her PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and her BS in Earth Systems from Stanford University in 2010. 
+Cara is an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. The [Brook Lab](https://brooklab.org) investigates the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. Cara is committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar. She received her PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and her BS in Earth Systems from Stanford University in 2010. 
 
 <div style="clear:both;">&nbsp;</div>
 
