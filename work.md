@@ -7,7 +7,7 @@ permalink: /work
 
 <img src="/assets/research/lab_tent.jpeg" alt="tent" class="img-thumbnail float-end col-md-5" />
 
-The research of Association Ekipa Fanihy focuses on the disease ecology and population dynamics of three endemic species of threatened fruit bats in Madagascar:  *Pteropus rufus, Eidolon dupreanum,* and *Rousettus madagascariensis*. Bats (order Chiroptera) are divided into two major suborders, Yangochiroptera and Yinpterochiroptera, the latter of which contains the Old World Fruit Bat family, Pteropodidae, and includes our three Malagasy species. Bats are known reservoirs for several highly virulent emerging human viruses but, themselves, experience limited clinical pathology from infection. Our research, in collaboration with the [Brook lab at the University of Chicago](brooklab.org), aims to uncover how viruses circulate in wild bat populations in Madagascar and attempts to demonstrate how bat conservation can be leveraged to promote human public health. Based on work carried out in other bat-virus systems globally (e.g. [Australia](https://www.nature.com/articles/s41586-022-05506-2)), we hypothesize that healthy bats in intact ecosystems shed less virus into their surrounding ecosystems, posing a reduced public health threat.
+The research of Association Ekipa Fanihy focuses on the disease ecology and population dynamics of three endemic species of threatened fruit bats in Madagascar:  *Pteropus rufus, Eidolon dupreanum,* and *Rousettus madagascariensis*. Bats (order Chiroptera) are divided into two major suborders, Yangochiroptera and Yinpterochiroptera, the latter of which contains the Old World Fruit Bat family, Pteropodidae, and includes our three Malagasy species. Bats are known reservoirs for several highly virulent emerging human viruses but, themselves, experience limited clinical pathology from infection. Our research, in collaboration with the [Brook lab at the University of Chicago](https://brooklab.org), aims to uncover how viruses circulate in wild bat populations in Madagascar and attempts to demonstrate how bat conservation can be leveraged to promote human public health. Based on work carried out in other bat-virus systems globally (e.g. [Australia](https://www.nature.com/articles/s41586-022-05506-2)), we hypothesize that healthy bats in intact ecosystems shed less virus into their surrounding ecosystems, posing a reduced public health threat.
 
 Day-to-day, Association Ekipa Fanihy conducts field studies, molecular analysis of biological samples in the lab, quantitative data analysis on our computers, and strives to publish our findings in scientific research journals. 
 
@@ -15,7 +15,7 @@ Day-to-day, Association Ekipa Fanihy conducts field studies, molecular analysis 
 
 ## Outreach and Teaching
 
-In collaboration with the [Brook lab at the University of Chicago](brooklab.org), we host one data analysis course and one one-on-one scientific mentoring program each year for Malagasy biology students at the graduate level.
+In collaboration with the [Brook lab at the University of Chicago](https://brooklab.org), we host one data analysis course and one one-on-one scientific mentoring program each year for Malagasy biology students at the graduate level.
 
 
 <div class="row">
