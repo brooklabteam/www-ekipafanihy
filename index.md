@@ -3,12 +3,12 @@ layout: home
 title: Ekipa Fanihy
 ---
 
-
+<!--
 <div class="bs-callout bs-callout-info">
   <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="https://airtable.com/app39Nhf3iXgg4K0r/shrPuIMztBQHphOJ6">Association Ekipa Fanihy Technicien(ne) Biologiste</a> for job description and application, due by midnight (Malagasy time) on <strong>September 10, 2023</strong>!</p>
   <p><em>This page last updated August 15, 2023.</em></p>
 </div>
-
+-->
 
 We are a non-profit organization based in Antananarivo, Madagascar, dedicated to disease ecology research, outreach and teaching, and applied conservation. "Ekipa Fanihy" translates to "Team Fruit Bat" in the Malagasy language, as much of our work is focused on research, education, and conservation of Madagascar's three endemic species of fruit bat: *Pteropus rufus, Eidolon dupreanum,* and *Rousettus madagascariensis*. 
 
