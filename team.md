@@ -72,16 +72,17 @@ Cara is an Assistant Professor in the [Department of Ecology and Evolution](http
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/nuzha_baksh.jpg" alt="nuzha" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
-**BAKSH Nuzha** is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [nuzha.baksh@ekipafanihy.org](mailto:nuzha.baksh@ekipafanihy.org).
+**MCFERRIN Katherine** is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [katherine.mcferrine@ekipafanihy.org](mailto:katherine.mcferrine@ekipafanihy.org).
 
-Nuzha co-leads monthly field expeditions to capture and sample Malagasy fruit bats for the research initiatives of the Brook lab and Association Ekipa Fanihy. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (*Batrachochytrium dendrobatidis*) on amphibian populations in the Sierra Nevadas and the East Bay, California as an undergraduate in the lab of Dr. Cherie Briggs.
+Katherine co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
+
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/michael_mcguire.jpg" alt="michael" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/martin-roland.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
 
-**McGUIRE Michael**  is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [michael.mcguire@ekipafanihy.org](mailto:michael.mcguire@ekipafanihy.org).
+**ROLAND Martin**  is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [martin.roland@ekipafanihy.org](mailto:martin.roland@ekipafanihy.org).
 
-Michael co-leads monthly field expeditions to capture and sample Malagasy fruit bats for the research initiatives of the Brook lab and Association Ekipa Fanihy. Michael holds a B.S. in Wildlife and Fisheries Biology and a minor in Geography from the University of Vermont. He has a diverse work history includig environmental education and backcountry canoe & kayak guiding in Northern Wisconsin, fieldwork on a sampling project of snowshoe hares in Colorado, assisting and filming an expedition down the Mississippi River to study microplastics distribution, trail construction with Americorps in and around Olympic National Park, salmon habitat restoration on Washington’s Olympic Peninsula, and whale-watch guiding within the Salish Sea.
+Martin co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. He graduated from the University of Chicago with a B.A. in Environmental Studies and a Minor in Biological Sciences, where he engaged in research focused on the morphological study of field mice for species identification. As a field TA he has led student groups on rigorous field projects including sampling for aquatic insect diversity in the mountains of Arizona, trapping rodents in the Midwest, and surveying intertidal algae abundance in Cape Cod.
