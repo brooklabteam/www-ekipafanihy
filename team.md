@@ -74,7 +74,7 @@ Cara is an Assistant Professor in the [Department of Ecology and Evolution](http
 
 <img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
-**MCFERRIN Katherine** is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [katherine.mcferrine@ekipafanihy.org](mailto:katherine.mcferrine@ekipafanihy.org).
+**MCFERRIN Katherine** is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [katherine.mcferrin@ekipafanihy.org](mailto:katherine.mcferrin@ekipafanihy.org).
 
 Katherine co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
 
