@@ -5,7 +5,7 @@ permalink: /team
 ---
 ## New Members
 
-<img src="/assets/team/Hands together.JPG" alt="hands" class="img-thumbnail float-end col-sm-3">
+<img src="/assets/team/Hands together.JPG" alt="hands" class="float-end">
 
 We are constantly on the lookout for new members to fill a variety of roles on our team. 
 
@@ -25,7 +25,7 @@ Association Ekipa Fanihy recruits and trains one new Master's student per year f
 
 ## Current Members
 	
-<img src="/assets/team/christian_ranaivoson.jpg" alt="christian" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/christian_ranaivoson.jpg" alt="christian" class="float-start" />
 
 Dr. **RANAIVOSON Hafaliana Christian** is the Director of Association Ekipa Fanihy. Contact: [christian.ranaivoson@ekipafanihy.org](mailto:christian.ranaivoson@ekipafanihy.org).
 
@@ -33,7 +33,7 @@ Currently a Postdoctoral Scholar in the Brook lab in Department of Ecology and E
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/angelo_andrianiaina.jpg" alt="angelo" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/angelo_andrianiaina.jpg" alt="angelo" class="float-start" />
 
 **ANDRIANIAINA Angelo** is a Research Technician at Association Ekipa Fanihy. Contact: [angelo.andrianiaina@ekipafanihy.org](mailto:angelo.andrianiaina@ekipafanihy.org).
 
@@ -41,7 +41,7 @@ Angelo is a PhD student in the Department of Zoology and Animal Biodiversity at 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/santino_andry.jpg" alt="santino" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/santino_andry.jpg" alt="santino" class="float-start" />
 
 **ANDRY Santino** is a Research Technician at Association Ekipa Fanihy. Contact: [santino.andry@ekipafanihy.org](mailto:santino.andry@ekipafanihy.org).
 
@@ -56,7 +56,7 @@ Biography coming soon!
 <div style="clear:both;">&nbsp;</div>
 
 
-<img src="/assets/team/rova_indrianala_ratsimamanga .jpg" alt="rova" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/rova_indrianala_ratsimamanga .jpg" alt="rova" class="float-start" />
 
 **RATSIMAMANGA Rova Indrianala** is a **Master's Student** with Association Ekipa Fanihy.
 
@@ -64,7 +64,7 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/carabrook-headshot-2020.jpeg" alt="headshot" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/carabrook-headshot-2020.jpeg" alt="headshot" class="float-start" />
 
 Dr. **BROOK Cara** is the Scientific Advisor to Ekipa Fanihy. Contact: [cara.brook@ekipafanihy.org](mailto:cara.brook@ekipafanihy.org).
 
@@ -72,7 +72,7 @@ Cara is an Assistant Professor in the [Department of Ecology and Evolution](http
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="float-start" />
 
 **MCFERRIN Katherine** is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [katherine.mcferrin@ekipafanihy.org](mailto:katherine.mcferrin@ekipafanihy.org).
 
@@ -81,7 +81,7 @@ Katherine co-leads monthly field expeditions to capture and sample Madagascar en
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/martin-roland.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/martin-roland.jpg" alt="martin" class="float-start" />
 
 **ROLAND Martin**  is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [martin.roland@ekipafanihy.org](mailto:martin.roland@ekipafanihy.org).
 

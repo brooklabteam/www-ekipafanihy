@@ -1,18 +1,8 @@
 <header>
-	<nav class="navbar navbar-expand-lg navbar-light bg-light rounded" aria-label="navbar">
-		<div class="container-fluid">
-		  <a class="navbar-brand" href="/">🦇 Ekipa Fanihy</a>
-		  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		  </button>
-	
-		  <div class="collapse navbar-collapse" id="navbar">
-			<ul class="navbar-nav me-auto mb-2 mb-md-0">
-			  <li class="nav-item"><a class="nav-link{% if page.title == "Our Work" %} active{% endif %}" href="/work">Our Work</a></li>
-			  <li class="nav-item"><a class="nav-link{% if page.title == "Team" %} active{% endif %}" href="/team">Team</a></li>
-			  <li class="nav-item"><a class="nav-link" href="/index-mg">🇲🇬</a></li>
-			</ul>
-		  </div>
-		</div>
-	  </nav>
+  <nav aria-label="Main navigation">
+    <a class="nav-brand" href="/">🦇 Ekipa Fanihy</a>
+    <a href="/work"{% if page.title == "Our Work" %} class="active"{% endif %}>Our Work</a>
+    <a href="/team"{% if page.title == "Team" %} class="active"{% endif %}>Team</a>
+    <a href="/index-mg" aria-label="Malagasy version">🇲🇬</a>
+  </nav>
 </header>
