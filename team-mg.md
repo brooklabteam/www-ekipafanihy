@@ -68,20 +68,3 @@ Izy dia "Assistant Professor" ao amin'ny "[Department of Ecology and Evolution](
 
 <div style="clear:both;">&nbsp;</div>
 
-
-<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
-
-
-**MCFERRIN Katherine** dia mpilatsaka antsitrapo ao amin'ny Ekipa Fanihy. Fifandraisana:  [katherine.mcferrin@ekipafanihy.org](mailto:katherine.mcferrin@ekipafanihy.org).
-
-
-Katherine dia isan'ireo mpitarika ny fidinana ifotony izay anatanterahana ny fijerevana ireo fanihy sy fakana singa amin'izy ireo. Nanaraka lalam-piofanana biolijia sy "bioinformatics" tao amin'ny Carleton College izy ary manana ny mari-pahaizana "Bachelor of Arts". Izy dia Efa nanatanteraka fanarahamaso ny "hantavirus" amin'ny biby mpikiky tany Washington antsinana izay niarahany tamin'ny laboratoara "Molecular Ecology of Zoonotic and Animal Pathogens"ao amin'ny Washington State University.Izy ihany koa, dia efa nisehatra tamin'ny fiarovana ny bibidia sy ny politika ekolojika tany Oganda izay nanatanterahany ny fanarahamaso ny voary sy ny fiainan'ny mponina manodidina mba ahafantarana lanindalina kokoa ny fifandraisna'izy roa ireo.
-
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/martin-roland.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
-
-**ROLAND Martin** dia mpilatsaka antsitrapo ao amin'ny Ekipa Fanihy. Fifandraisana:  [martin.roland@ekipafanihy.org](mailto:martin.roland@ekipafanihy.org).
-
-Martin dia isan'ireo mpitarika ny fidinana ifotony izay anatanterahana ny fijerevana ireo fanihy sy fakana singa amin'izy ireo. Izy dia manana mari-pahaizana "Bachelor of Arts" tao amin'ny Oniversite an'ny Chicago tamin'ny lalam-piofanana "Environmental Studies and a Minor in Biological Sciences", izay niompana tamin'ny fandalinana ny endrika ivelan'ny voalavo mba afahana mamantatra ny karazany. Izy ihany koa, dia efa nitarika mpianatra: nanatanteraka fakana santionany amin'ireo biby kely miaina anaty rano tany Arizona,namandrika biby mpikiky tany Afovoany andrefan'ny Etazonia, ary nanaramaso ny abetsaky ny ahidrano tany Cape cod.

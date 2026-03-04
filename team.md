@@ -72,17 +72,3 @@ Cara is an Assistant Professor in the [Department of Ecology and Evolution](http
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="float-start" />
-
-**MCFERRIN Katherine** is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [katherine.mcferrin@ekipafanihy.org](mailto:katherine.mcferrin@ekipafanihy.org).
-
-Katherine co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
-
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/martin-roland.jpg" alt="martin" class="float-start" />
-
-**ROLAND Martin**  is a volunteer Field Project Manager with Association Ekipa Fanihy. Contact: [martin.roland@ekipafanihy.org](mailto:martin.roland@ekipafanihy.org).
-
-Martin co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. He graduated from the University of Chicago with a B.A. in Environmental Studies and a Minor in Biological Sciences, where he engaged in research focused on the morphological study of field mice for species identification. As a field TA he has led student groups on rigorous field projects including sampling for aquatic insect diversity in the mountains of Arizona, trapping rodents in the Midwest, and surveying intertidal algae abundance in Cape Cod.
