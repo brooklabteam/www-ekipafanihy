@@ -13,7 +13,7 @@ Singanina manokana amin'ny izany ireto olona voasokajy manaraka ireto:
 - Ny mpianatra Master
 - Ny Manomana DOctorat
 - Ny teknisianina
-- Ny mpilatsaka antsitrapo avy any ivelany (izay avy ao amin'ny [Brook lab Oniversite Kalifornia Berkeley](https://brooklab.org/join))
+- Ny mpilatsaka antsitrapo avy any ivelany (izay avy ao amin'ny [Brook Lab Oniversite Kalifornia Berkeley](https://brooklab.org/join))
 
 Ny tolotr'asa rehetra dia aparitaka amin'ny aterineto ankoatran'ny filatsahana antsitrapo. Ka raha tafiditra amin'ny ireo sokajy voalaza etsy ambony ianao sy liana amin'ny asa fikarohana manodidina ny tontolon'ny fanihy eto Madagasikara dia  aza misalasala mandefa mailaka : [team@ekipafanihy.org](mailto:team@ekipafanihy.org).
 
