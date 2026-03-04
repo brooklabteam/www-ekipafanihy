@@ -9,7 +9,7 @@ permalink: /work-mg
 
 Ny fikarohana ataon'ny ekipa Fanihy dia miompana amin'ny tontolon'ny aretina sy ny dinamikan'ny fanihy telo karazany eto Madagasikara: *Pteropus rufus*, *Eidolon dupreanum*, ary ny *Rousettus madagascariensis*.
 
-Ny fanihy(sokajy Chiroptera) dia mizara ho zanatsokajy, Yangochiroptera sy Yinpterochiroptera, ito farany dia ahitana ny fanihy mihinana voankazo, Pteropodidae izay misy ny fanihy malagasy telo karazany. Ny fanihy dia fantatra fa mpitahiry otrikaretina maro izay mety miparitaka sy mankarary ny olombelona nefa kosa izy ireo dia tsy ahitana soritraretina. Ny asa fikarohana atao miaraka amin'ny [Brook lab Oniversite Kalifornia Berkeley](https://brooklab.org) dia mamakafaka ny hoe ahoana ny fivezivezen'ny viriosy eo amin'ny mponin'ny fanihy eto Madagasikara sy hanamarina fa ny fiarovana ny fanihy dia mety entina hanatsaranan'ny fahasalamambahoaka. Raha ny asa mahakasika ny viriosy ita amin'ny fanihy izay natao tany [Australia](https://www.nature.com/articles/s41586-022-05506-2) dia namoaka petra-kevitra izahay hoe ny fanihy salama sy voa-aro dia mitazona kokoa ny viriosy tsy hiparitaka.
+Ny fanihy(sokajy Chiroptera) dia mizara ho zanatsokajy, Yangochiroptera sy Yinpterochiroptera, ito farany dia ahitana ny fanihy mihinana voankazo, Pteropodidae izay misy ny fanihy malagasy telo karazany. Ny fanihy dia fantatra fa mpitahiry otrikaretina maro izay mety miparitaka sy mankarary ny olombelona nefa kosa izy ireo dia tsy ahitana soritraretina. Ny asa fikarohana atao miaraka amin'ny [Brook Lab Oniversite Kalifornia Berkeley](https://brooklab.org) dia mamakafaka ny hoe ahoana ny fivezivezen'ny viriosy eo amin'ny mponin'ny fanihy eto Madagasikara sy hanamarina fa ny fiarovana ny fanihy dia mety entina hanatsaranan'ny fahasalamambahoaka. Raha ny asa mahakasika ny viriosy ita amin'ny fanihy izay natao tany [Australia](https://www.nature.com/articles/s41586-022-05506-2) dia namoaka petra-kevitra izahay hoe ny fanihy salama sy voa-aro dia mitazona kokoa ny viriosy tsy hiparitaka.
 
 Ny fikambanana Ekipa Fanihy dia midina ifotony mandavantaona maka singa avy amin'ireo fanihy, mitily ireo singa azo anaty laboratoara ary manao fampahafantarana ny vokampikarohana eo aminy sehatra nationaly sy iraisam-pirenena.
 
@@ -17,7 +17,7 @@ Ny fikambanana Ekipa Fanihy dia midina ifotony mandavantaona maka singa avy amin
 
 ## Fampahalalana sy fampianarana
 
-Izahay dia mikarakara atrikasa sy manome fiofanana ho an'ny mpikaroka Malagasy, indray mandeha isantaona izay tafiditra ao anatin'ny fiarahamiasa miaraka amin'ny [Brook lab Oniversite Kalifornia Berkeley](https://brooklab.org).
+Izahay dia mikarakara atrikasa sy manome fiofanana ho an'ny mpikaroka Malagasy, indray mandeha isantaona izay tafiditra ao anatin'ny fiarahamiasa miaraka amin'ny [Brook Lab Oniversite Kalifornia Berkeley](https://brooklab.org).
 
 <div class="row">
   <div class="col-sm-6">
