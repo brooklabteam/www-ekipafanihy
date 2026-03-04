@@ -13,7 +13,7 @@ Singanina manokana amin'ny izany ireto olona voasokajy manaraka ireto:
 - Ny mpianatra Master
 - Ny Manomana DOctorat
 - Ny teknisianina
-- Ny mpilatsaka antsitrapo avy any ivelany (izay avy ao amin'ny [Brook lab Oniversite ny Chicago](https://brooklab.org/join))
+- Ny mpilatsaka antsitrapo avy any ivelany (izay avy ao amin'ny [Brook lab Oniversite Kalifornia Berkeley](https://brooklab.org/join))
 
 Ny tolotr'asa rehetra dia aparitaka amin'ny aterineto ankoatran'ny filatsahana antsitrapo. Ka raha tafiditra amin'ny ireo sokajy voalaza etsy ambony ianao sy liana amin'ny asa fikarohana manodidina ny tontolon'ny fanihy eto Madagasikara dia  aza misalasala mandefa mailaka : [team@ekipafanihy.org](mailto:team@ekipafanihy.org).
 
@@ -27,7 +27,7 @@ Ny Ekipa Fanihy dia mampiofana sy mandray antanana mpianatra manomana Matser ira
 
 RANAIVOSON Hafaliana Christian no mpitarikan'ny fikambanana Ekipa Fanihy. Fifandraisana: [christian.ranaivoson@ekipafanihy.org](mailto:christian.ranaivoson@ekipafanihy.org).
 
-Manatanterakan'ny dingana aorianan'ny docotrat (Postdoctoral) ao amin'ny Brook Lab izay anatin'ny departemantan'ny "Ecology and Evolution" Oniversite ny Chicago ankehitriny. Izy dia mitarika ny asa Next Generation Sequencing (NGS)izay itilianan'ny viriosy ita amin'ny fanihy. Izy dia niasa tao amin'ny Institut Pasteur de Mdagascar tamin'ny maha enjeniera mpikaroka tao amin'ny sampana virolojia. Christian dia nahazo ny diploma Master sy PhD tao aminy departemantan'ny "Zoology and Animal Biodiversity" Oniversite ny Antananarivo, izay niompana tamin'ny fifindrafindrana sy toerana ahitanan'ny parazita "erythrocytic" ny fanihy, indrindra fa ny *Babesia* spp. ny fanihy be *Pteropus rufus*. Izy ihany koa dia efa nanao fikarohana momban'ny aretina mpahazo ny fozaorana sy kakana ita amin'ny biby mangatsia-drà. 
+Manatanterakan'ny dingana aorianan'ny docotrat (Postdoctoral) ao amin'ny Brook Lab izay anatin'ny departemantan'ny "Integrative Biology" Oniversite Kalifornia Berkeley ankehitriny. Izy dia mitarika ny asa Next Generation Sequencing (NGS)izay itilianan'ny viriosy ita amin'ny fanihy. Izy dia niasa tao amin'ny Institut Pasteur de Mdagascar tamin'ny maha enjeniera mpikaroka tao amin'ny sampana virolojia. Christian dia nahazo ny diploma Master sy PhD tao aminy departemantan'ny "Zoology and Animal Biodiversity" Oniversite ny Antananarivo, izay niompana tamin'ny fifindrafindrana sy toerana ahitanan'ny parazita "erythrocytic" ny fanihy, indrindra fa ny *Babesia* spp. ny fanihy be *Pteropus rufus*. Izy ihany koa dia efa nanao fikarohana momban'ny aretina mpahazo ny fozaorana sy kakana ita amin'ny biby mangatsia-drà. 
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -64,7 +64,7 @@ Izy dia manomana Master ao amin'ny Departemantan'ny "Zoology and Animal Biodiver
 
 Dr. BROOK Cara dia mpanolotsaina siantifikan'ny Ekipa Fanihy. Fifandraisana : [cara.brook@ekipafanihy.org](mailto:cara.brook@ekipafanihy.org).
 
-Izy dia "Assistant Professor" ao amin'ny "[Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) ao amin'ny Oniversite ny Chicago. Ny [Brook Lab](https://www.brooklab.org) dia manadihady ny Ekolojia sy dinamikan'ny fivoaran'ny aretimifindran'ny biby, indrindra izay fantatra fa tahirizin'ny fanihy. I Cara dia nametraka fanamby hamakafaka lalina ny fikarohana izay ataony, hampiroborobo ny tontolon'ny siansa ary ny fahaiza-manao eto Madagasikara. Nahazo ny Doctorat amin'ny "Ecology and Evolutionnary Biology" tao amin'ny Oniversite ny Princeton  ny taona 2017 sy diploma amin'ny "Earth Systems tao amin'ny Oniversite ny Stanford ny taona 2010 izy.
+Izy dia "Assistant Professor" ao amin'ny "[Department of Integrative Biology](https://ib.berkeley.edu/) ao amin'ny Oniversite Kalifornia Berkeley. Ny [Brook Lab](https://www.brooklab.org) dia manadihady ny Ekolojia sy dinamikan'ny fivoaran'ny aretimifindran'ny biby, indrindra izay fantatra fa tahirizin'ny fanihy. I Cara dia nametraka fanamby hamakafaka lalina ny fikarohana izay ataony, hampiroborobo ny tontolon'ny siansa ary ny fahaiza-manao eto Madagasikara. Nahazo ny Doctorat amin'ny "Ecology and Evolutionnary Biology" tao amin'ny Oniversite ny Princeton  ny taona 2017 sy diploma amin'ny "Earth Systems tao amin'ny Oniversite ny Stanford ny taona 2010 izy.
 
 <div style="clear:both;">&nbsp;</div>
 
