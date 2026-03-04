@@ -13,7 +13,7 @@ In particular, we regularly support the training of new members in the following
 - Master's students 
 - PhD students 
 - Laboratory or field technicians 
-- Foreign volunteers (recruited twice annually via the [Brook Lab](https://brooklab.org/join) at UChicago).
+- Foreign volunteers (recruited twice annually via the [Brook Lab](https://brooklab.org/join) at UC Berkeley).
 
 With the exception of foreign volunteers, positions will be posted here as they become available. In the meantime, if you are interested in any of these roles, please reach out to our team's general contact at [team@ekipafanihy.org](mailto:team@ekipafanihy.org). 
 
@@ -29,7 +29,7 @@ Association Ekipa Fanihy recruits and trains one new Master's student per year f
 
 Dr. **RANAIVOSON Hafaliana Christian** is the Director of Association Ekipa Fanihy. Contact: [christian.ranaivoson@ekipafanihy.org](mailto:christian.ranaivoson@ekipafanihy.org).
 
-Currently a Postdoctoral Scholar in the Brook lab in Department of Ecology and Evolution at the University of Chicago, Christian leads Next Generation Sequencing (NGS) studies targeting viral discovery in Malagasy fruit bats. Previously, he worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar, where he conducted SARS-CoV-2 genomic surveillance in Madagascar. Christian received his Masters and PhD degrees from the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar where his research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, *Pteropus rufus*. Dr. Ranaivoson has also previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles.
+Currently a Postdoctoral Scholar in the Brook lab in the Department of Integrative Biology at UC Berkeley, Christian leads Next Generation Sequencing (NGS) studies targeting viral discovery in Malagasy fruit bats. Previously, he worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar, where he conducted SARS-CoV-2 genomic surveillance in Madagascar. Christian received his Masters and PhD degrees from the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar where his research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, *Pteropus rufus*. Dr. Ranaivoson has also previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -68,7 +68,7 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 Dr. **BROOK Cara** is the Scientific Advisor to Ekipa Fanihy. Contact: [cara.brook@ekipafanihy.org](mailto:cara.brook@ekipafanihy.org).
 
-Cara is an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. The [Brook Lab](https://brooklab.org) investigates the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. Cara is committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar. She received her PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and her BS in Earth Systems from Stanford University in 2010. 
+Cara is an Assistant Professor in the [Department of Integrative Biology](https://ib.berkeley.edu/) at UC Berkeley. The [Brook Lab](https://brooklab.org) investigates the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. Cara is committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar. She received her PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and her BS in Earth Systems from Stanford University in 2010. 
 
 <div style="clear:both;">&nbsp;</div>
 
