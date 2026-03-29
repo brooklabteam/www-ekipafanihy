@@ -21,7 +21,3 @@ Many pages have both English and Malagasy versions:
 ### Site Configuration
 
 `_config.yml` points to `https://ekipafanihy.org`. Update this file if the site URL changes.
-
-## Pending TODOs
-
-- **WWW redirect**: Make sure `www.ekipafanihy.org` redirects to the apex domain `ekipafanihy.org` (via `_redirects` or `netlify.toml`).
