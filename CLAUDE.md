@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the [Ekipa Fanihy](https://ekipafanihy.org) website — a Jekyll static site deployed via Netlify. It shares the same base structure as the [Brook Lab website](https://brooklab.org) ([brooklabteam/www](https://github.com/brooklabteam/www)).
+This is the [Ekipa Fanihy](https://ekipafanihy.org) website — a Jekyll static site deployed via Cloudflare Pages. It shares the same base structure as the [Brook Lab website](https://brooklab.org) ([brooklabteam/www](https://github.com/brooklabteam/www)).
 
 **Refer to [brooklabteam/www CLAUDE.md](https://github.com/brooklabteam/www/blob/main/CLAUDE.md) for full documentation** on local development, repository structure, adding news posts, top-level pages, navigation, site configuration, and deployment — the conventions are the same.
 
