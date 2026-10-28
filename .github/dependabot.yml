@@ -1,0 +1,23 @@
+# Canonical copy for all four Brook Lab sites (see www-infra/shared/README.md).
+# Edit here first, then copy into each site repo and run scripts/check-shared.sh.
+version: 2
+updates:
+  - package-ecosystem: bundler
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      timezone: America/Los_Angeles
+    groups:
+      minor-and-patch:
+        update-types: [minor, patch]
+    # Jekyll major versions (5.x) need a manual upgrade and test build.
+    ignore:
+      - dependency-name: jekyll
+        update-types: [version-update:semver-major]
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      timezone: America/Los_Angeles
