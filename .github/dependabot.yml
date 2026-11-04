@@ -8,6 +8,10 @@ updates:
       interval: weekly
       day: monday
       timezone: America/Los_Angeles
+    # Also update indirect gems (nokogiri, addressable, ...), not just the
+    # Gemfile's direct ones. Added after ekipafanihy#20/#21 (2026-11-03).
+    allow:
+      - dependency-type: all
     groups:
       minor-and-patch:
         update-types: [minor, patch]
