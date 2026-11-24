@@ -1,8 +1,11 @@
+# Cloudflare Pages _redirects: https://developers.cloudflare.com/pages/configuration/redirects/
+# Format: <from> <to> <status>. ALWAYS write the status code. Cloudflare Pages defaults to 302
+# (temporary), unlike Netlify, which defaults to 301. CI fails on a rule without a status code.
 # Redirects from what the browser requests to what we serve
-/feed /feed.xml
+/feed /feed.xml 301
 
-/about /
-/news_media /
-/join /
-/research /
-/support_us /
+/about / 301
+/news_media / 301
+/join / 301
+/research / 301
+/support_us / 301
